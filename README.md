@@ -41,4 +41,7 @@ Para contribuir a esta documentación:
 
 ## 📞 Contacto
 
-Para cualquier consulta sobre la documentación, por favor contacta al equipo de desarrollo.
+Para cualquier consulta sobre la documentación, por favor contacta al equipo de desarrollo:
+- **Juan David Colonia Aldana** - [LinkedIn](https://www.linkedin.com/in/juan-david-colonia-aldana/)
+- **Esteban Gaviria Zambrano** - [LinkedIn](https://www.linkedin.com/in/esteban-gaviria-zambrano/)
+
